@@ -23,3 +23,6 @@ Bu çalisma, verilen  görseli'ye göre HTML, Pure JavaScript ve CSS kullanılar
 - klavye yön tuslari (yukari/asagi ve sag/sol) ile seçenekler üzerinde hareket eder 
 - Yön tusu ile sag tarafa geçildiginde soldaki menünü gizler,
 - Enter ile herhangi bir kareye basildiginda bir içerik gelir.
+
+
+[https://uthmana.github.io/workshop/](https://uthmana.github.io/workshop/)
